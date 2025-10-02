@@ -1,1 +1,1 @@
-https://alexeyzhukovets1988.github.io/rsschool-cv/cv
+https://alexeyzhukovets1988-lgtm.github.io/rsschool-cv/
